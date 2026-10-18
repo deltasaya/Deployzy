@@ -1,1 +1,1 @@
-FROM ghcr.io/orga000/deployzy:allin
+FROM faizly/wsallinx:js
